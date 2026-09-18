@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-William Wang
-=======
-Xavier
->>>>>>> 77082818ec093f8968fc91a65062165f8c41c0b3
+William
